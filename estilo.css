@@ -1,0 +1,26 @@
+
+
+p.endereco{
+    color:black;
+}
+
+.endereco{
+    font-family:monospace;
+}
+
+p{
+    color:red;
+    font-size: 1em;
+}
+
+dt{
+    color:coral;
+}
+
+dd{
+    color:brown;
+}
+
+li{
+    color:darkblue;
+}
